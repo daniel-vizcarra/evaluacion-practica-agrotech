@@ -1,0 +1,6 @@
+com\agrotech\integration\RPCRoute.class
+com\agrotech\integration\DatabaseInitializer.class
+com\agrotech\integration\FileTransferRoute.class
+com\agrotech\integration\SharedDatabaseRoute.class
+com\agrotech\integration\MainApp.class
+com\agrotech\integration\ServicioAnalitica.class
