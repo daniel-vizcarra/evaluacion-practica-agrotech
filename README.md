@@ -138,7 +138,7 @@ CREATE TABLE lecturas (
 
 1. **Clonar el repositorio:**
 ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/daniel-vizcarra/evaluacion-practica-agrotech.git
    cd evaluacion-practica-agrotech
 ```
 
